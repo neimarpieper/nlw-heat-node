@@ -40,3 +40,7 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 ---
 
 Feito com ♥ by Rocketseat 👋🏻 &nbsp;[Participe da nossa comunidade!](https://discordapp.com/invite/gCRAFhc)
+
+
+Material complementar: https://efficient-sloth-d85.notion.site/NLW-Heat-daaa092e1eeb42ff929151d2807c8231
+Cronograma da Aula: https://danileao.notion.site/NLW-Heat-96310f3f752b472597ee5fd87b02996d
